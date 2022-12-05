@@ -1,8 +1,3 @@
-@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
-@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
-:root {
---app-font: "Google Sans";
-}
 /* making it so dark and light mode are the same (since the theme is only gray) */
 
 
