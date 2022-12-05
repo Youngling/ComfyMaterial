@@ -5,4 +5,4 @@ All code is stolen from Comfygray and Material discord.
 
 ### Theme:
 
-* [Material Discord](https://github.com/Youngling/ComfyMaterial/blob/ComfyMaterial/StolenCode.css)
+* [ComfyMaterial](https://github.com/Youngling/ComfyMaterial/blob/ComfyMaterial/StolenCode.css)
